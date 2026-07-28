@@ -1,4 +1,4 @@
 
 The screenshot
 
-  <img src="images/home_screen.png" width="250">
+  <img src="assets/Images/homescreen_widget_screen.png" width="250" alt="image not available">
